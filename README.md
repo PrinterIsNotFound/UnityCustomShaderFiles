@@ -24,3 +24,8 @@ adjust the lighting in the scene and the material parameters to fine-tune the lo
 Step 5.
 I suggest using low resolution textures with normal maps if you want to recreate the look from my game.
 
+
+
+![image](https://github.com/PrinterIsNotFound/UnityCustomShaderFiles/assets/75360384/5d64b01d-1336-4870-b84f-c20f34c31874)
+
+
